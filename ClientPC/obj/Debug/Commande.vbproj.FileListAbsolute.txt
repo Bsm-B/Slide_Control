@@ -1,0 +1,10 @@
+C:\Users\Bsm\source\repos\Commande\bin\Debug\Commande.exe
+C:\Users\Bsm\source\repos\Commande\obj\Debug\Commande.Form1.resources
+C:\Users\Bsm\source\repos\Commande\obj\Debug\Commande.Resources.resources
+C:\Users\Bsm\source\repos\Commande\obj\Debug\Commande.vbproj.GenerateResource.cache
+C:\Users\Bsm\source\repos\Commande\obj\Debug\Commande.vbproj.CoreCompileInputs.cache
+C:\Users\Bsm\source\repos\Commande\obj\Debug\Commande.exe
+C:\Users\Bsm\source\repos\Commande\obj\Debug\Commande.xml
+C:\Users\Bsm\source\repos\Commande\obj\Debug\Commande.pdb
+C:\Users\Bsm\source\repos\Commande\bin\Debug\Commande.pdb
+C:\Users\Bsm\source\repos\Commande\bin\Debug\Commande.xml
