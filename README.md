@@ -11,3 +11,9 @@ The "Bluetooth Slide Presentation Controller" project is a device that allows us
 The client software is built using VB.NET and is responsible for receiving commands from the remote controller and executing them. The remote controller is created using an Arduino Nano and a Bluetooth module and features two buttons - one for moving to the next slide and one for going back.
 
 The principle of how this project works is quite simple. When the user clicks on either of the buttons on the remote controller, the remote sends information to the client software to move to the next slide or go back. The Bluetooth module allows for wireless communication between the two parts of the project, making it easy and convenient for users to control their presentation slides without the need to be close to their computer.
+
+# Schematic
+
+![alt text](https://github.com/Bsm-B/Slide_Control/blob/master/Schema.png?raw=true)
+
+
