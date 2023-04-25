@@ -16,4 +16,13 @@ The principle of how this project works is quite simple. When the user clicks on
 
 ![alt text](https://github.com/Bsm-B/Slide_Control/blob/master/Schema.png?raw=true)
 
+# Hardware 
+## Pinout 
+
+
+| NAME     |      PIN      |
+|----------|:-------------:|
+| Button 01 |       D2     |
+| Button 02 |       D3     |
+
 
