@@ -22,7 +22,7 @@ The program can receive commands from a remote control and use the "next/back" k
 
 ### Setup 
 
-1. Paire HC-05 Module with PC 
+1. Pair HC-05 Module with PC 
 1. Open App 
 1. Select Port 
 1. Connect
