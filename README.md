@@ -17,7 +17,7 @@ The principle of how this project works is quite simple. When the user clicks on
 ![alt text](https://github.com/Bsm-B/Slide_Control/blob/master/Schema.png?raw=true)
 
 
-## Pinout 
+# Pinout 
 
 
 | Device    |     MCU      |
@@ -25,7 +25,11 @@ The principle of how this project works is quite simple. When the user clicks on
 | Button 01  |       D2     |
 | Button 02  |       D3     |
 | HC-05 (RX) |       TX     |
-| Battery (+)|       5V     |
-| Battery (-)|       GND    |
+
+# Note
+
+This project can be used as a reference for controlling a computer with arduino via bluetooth
+
+
 
 
