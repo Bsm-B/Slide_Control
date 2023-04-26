@@ -2,6 +2,11 @@
 
 Slide Presentation Controller is a remote controller that allows you to manage your slides in a presentation. It helps you to navigate through your presentation and control the flow of information that you are presenting. You can use it to move forward or backward through your slides, jump to specific slides, or even pause your presentation if you need to take a break or answer questions from your audience.
 
+
+# Note
+
+> This project can be used as a reference for controlling a computer or communcate with arduino via bluetooth 
+
 # How is Work 
 
 The "Bluetooth Slide Presentation Controller" project is a device that allows users to control their presentation slides wirelessly using an Arduino Nano and a Bluetooth module (HC-05). The project is divided into two parts - a client software and a remote controller.
@@ -44,8 +49,4 @@ control can be used to send simple commands to a computer, and the Arduino Nano 
 | Button 02  |       D3     |
 | HC-05 (RX) |       TX     |
 
-
-# Note
-
-> This project can be used as a reference for controlling a computer with arduino via bluetooth
 
